@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Razan Mahmoud Fahmi 👋</h1>
+<h1 align="center">Hi there, I'm Razan Mahmoud 👋</h1>
 
 <p align="center">
 A dedicated Frontend Web Developer focused on building robust and scalable applications using modern web technologies. Welcome to my GitHub!
@@ -28,7 +28,7 @@ https://shields.io/
 Frontend & UI
 
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)]
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
