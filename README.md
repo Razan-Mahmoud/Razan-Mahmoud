@@ -1,26 +1,15 @@
-<!--
 
-GREETING & INTRO
-
--->
-
-<h1 align="center">Hi there, I'm [Razan Mahmoud Fahmi] 👋</h1>
+<h1 align="center">Hi there, I'm Razan Mahmoud Fahmi 👋</h1>
 
 <p align="center">
-A dedicated <strong>[Frontend Web Developer]</strong> focused on building robust and scalable applications using modern web technologies. Welcome to my GitHub!
+A dedicated Frontend Web Developer focused on building robust and scalable applications using modern web technologies. Welcome to my GitHub!
 </p>
-
-<!--
-
-ABOUT ME
-
--->
 
 🌟 About Me
 
 💻 I primarily work with Next.js, React, TypeScript, and Tailwind CSS to build high-performance user interfaces.
 
-🌱 I’m currently learning [React Hook Form, next-intl and TanStack Query].
+🌱 I’m currently learning React Hook Form, next-intl and TanStack Query.
 
 <!--
 
@@ -39,6 +28,7 @@ https://shields.io/
 Frontend & UI
 
 <p>
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)](https://skillicons.dev)
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
