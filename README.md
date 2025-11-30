@@ -28,7 +28,7 @@ https://shields.io/
 Frontend & UI
 
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)]
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
