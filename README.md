@@ -1,15 +1,11 @@
 
 <h1 align="center">Hi there, I'm Razan Mahmoud 👋</h1>
-
-<p align="center">
-A dedicated Frontend Web Developer focused on building robust and scalable applications using modern web technologies. Welcome to my GitHub!
-</p>
+#Hi there, I'm Razan Mahmoud 👋
+Frontend Developer | React & Next.js
 
 🌟 About Me
-
-💻 I primarily work with Next.js, React, TypeScript, and Tailwind CSS to build high-performance user interfaces.
-
-🌱 I’m currently learning React Hook Form, next-intl and TanStack Query.
+- 🔭 I’m building modern web apps using **React & Next.js**
+- 🌱 Currently learning **React Hook Form and next-intl**
 
 <!--
 
@@ -23,28 +19,28 @@ https://shields.io/
 ======================================================
 -->
 
+## 🔧 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwind-css&logoColor=white)
+
+
 🛠️ My Tech Stack
 
 Frontend & UI
-
 <p>
+  React, Next.JS, TypeScript, JavaScript, Tailwind, HTML5, and CSS3.
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
 Tools & Deployment
-
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,postman,github,vscode,vercel" />
+  VsCode, git, GitHub, Postman, and Vercel.
+<img src="https://skillicons.dev/icons?i=git,postman,github,vscode,vercel" />
 </p>
 
-<!--
 
-STATS & ACTIVITY (Optional but Recommended)
-
-These dynamic cards require linking to external services. Replace [YOUR-USERNAME] with your actual GitHub username.
-
--->
 
 📈 GitHub Stats
 
