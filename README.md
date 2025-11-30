@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi there, I'm Razan Mahmoud 👋</h1>
-#Hi there, I'm Razan Mahmoud 👋
+
+
 Frontend Developer | React & Next.js
+
 
 🌟 About Me
 - 🔭 I’m building modern web apps using **React & Next.js**
@@ -23,20 +25,16 @@ https://shields.io/
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwind-css&logoColor=white)
-
-
-🛠️ My Tech Stack
-
-Frontend & UI
-<p>
-  React, Next.JS, TypeScript, JavaScript, Tailwind, HTML5, and CSS3.
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-0EA5E9?logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0EA5E9?logo=css&logoColor=white)
 
 Tools & Deployment
 <p>
-  VsCode, git, GitHub, Postman, and Vercel.
+  ![VsCode](https://img.shields.io/badge/VsCode-0EA5E9?logo=vscode&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0EA5E9?logo=css&logoColor=white)
+  , git, GitHub, Postman, and Vercel.
 <img src="https://skillicons.dev/icons?i=git,postman,github,vscode,vercel" />
 </p>
 
