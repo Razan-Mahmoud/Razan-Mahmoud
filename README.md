@@ -1,19 +1,25 @@
+  
+<div dir="auto" style="float: right;" >
+ 
+<img align="right"  width="353" height="303"  alt="woman programmer at a desk" src="https://github.com/user-attachments/assets/5519c464-f9bb-4eed-841d-19d0decd3dce" />
+</div>
+
 ### Hi there, I'm Razan Mahmoud 👋
 
 Frontend Developer | React & Next.js
+
+
+ 
+
 
 ### 🌟 About Me
 - 🔭 I’m building modern web apps using **React & Next.js**
 - 🌱 Currently learning **React Hook Form and next-intl**
 
 ### 🔧 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0EA5E9?logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0EA5E9?logo=css&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,html,css" />
+</p>
 
 ### 🔧 Tools & Deployment
 <p>
