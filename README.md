@@ -14,7 +14,7 @@ Frontend Developer | React & Next.js
 
 ### 🌟 About Me
 - 🔭 I’m building modern web apps using **React & Next.js**
-- 🌱 Currently learning **React Hook Form and next-intl**
+
 
 ### 🔧 Tech Stack
 <p>
